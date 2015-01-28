@@ -1,6 +1,6 @@
 name        "mongodb-ops"
-description 'Example cookbook for MongoDB Berkshelf based install'
-maintainer  "MyOrg"
+description 'Test mongo cook book'
+maintainer  "tor"
 license     "Apache 2.0"
 version     "1.0.0"
 
